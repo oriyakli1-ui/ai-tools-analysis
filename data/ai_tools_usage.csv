@@ -1,0 +1,56 @@
+tool_name,category,job_role,adoption_score,mention_source,ai_type,year_found
+ChatGPT,Writing & Content,Product Manager,58,Lenny's Newsletter AI Productivity Survey (Dec 2025),LLM Chatbot,2022
+ChatGPT,Writing & Content,Data Analyst,52,SQ Magazine / Stack Overflow 2025,LLM Chatbot,2022
+ChatGPT,Writing & Content,Project Manager,48,PMI AI Revolution Survey 2025,LLM Chatbot,2022
+Claude,Writing & Content,Product Manager,35,Lenny's Newsletter What's In Your Stack 2025,LLM Chatbot,2023
+Claude,Data Analysis & BI,Data Analyst,30,Anthropic Economic Index 2025,LLM Chatbot,2023
+Claude,Writing & Content,Project Manager,18,Lenny's Newsletter What's In Your Stack 2025,LLM Chatbot,2023
+Microsoft Copilot,Productivity & Automation,Project Manager,42,Microsoft Copilot Usage Report 2025,LLM Assistant,2023
+Microsoft Copilot,Productivity & Automation,Product Manager,33,Microsoft Copilot Usage Report 2025,LLM Assistant,2023
+Microsoft Copilot,Data Analysis & BI,Data Analyst,38,Microsoft Copilot Usage Report 2025,LLM Assistant,2023
+Google Gemini,Research & Search,Product Manager,24,Lenny's Newsletter What's In Your Stack 2025,LLM Chatbot,2023
+Google Gemini,Research & Search,Data Analyst,26,SQ Magazine AI Tools Usage 2025,LLM Chatbot,2023
+Google Gemini,Research & Search,Project Manager,20,SQ Magazine AI Tools Usage 2025,LLM Chatbot,2023
+Perplexity AI,Research & Search,Product Manager,28,Lenny Rachitsky PM chatbot poll 2024-2025,AI Search,2022
+Perplexity AI,Research & Search,Data Analyst,22,Views4You AI Usage Report 2025,AI Search,2022
+Perplexity AI,Research & Search,Project Manager,12,Views4You AI Usage Report 2025,AI Search,2022
+GitHub Copilot,Coding & Development,Data Analyst,34,Stack Overflow Developer Survey 2025,Code Assistant,2021
+GitHub Copilot,Coding & Development,Product Manager,15,Stack Overflow Developer Survey 2025,Code Assistant,2021
+GitHub Copilot,Coding & Development,Project Manager,6,Stack Overflow Developer Survey 2025,Code Assistant,2021
+Claude Code,Coding & Development,Data Analyst,20,Pragmatic Engineer AI Tooling Survey 2026,Agentic Coding,2025
+Claude Code,Coding & Development,Product Manager,12,Pragmatic Engineer AI Tooling Survey 2026,Agentic Coding,2025
+Cursor,Coding & Development,Data Analyst,16,Pragmatic Engineer AI Tooling Survey 2026,Agentic Coding,2023
+Cursor,Coding & Development,Product Manager,10,Pragmatic Engineer AI Tooling Survey 2026,Agentic Coding,2023
+Power BI Copilot,Data Analysis & BI,Data Analyst,36,Microsoft Fabric adoption reports 2025,BI AI Assistant,2023
+Power BI Copilot,Data Analysis & BI,Project Manager,14,Microsoft Fabric adoption reports 2025,BI AI Assistant,2023
+Tableau AI (Einstein),Data Analysis & BI,Data Analyst,21,Salesforce Tableau adoption 2025,BI AI Assistant,2023
+Notion AI,Productivity & Automation,Product Manager,26,Lenny's Newsletter What's In Your Stack 2025,Workspace AI,2023
+Notion AI,Productivity & Automation,Project Manager,22,Lenny's Newsletter What's In Your Stack 2025,Workspace AI,2023
+NotebookLM,Research & Search,Product Manager,18,Coworker.ai PM tools review 2026,Research Assistant,2023
+NotebookLM,Research & Search,Data Analyst,14,Coworker.ai PM tools review 2026,Research Assistant,2023
+Granola,Productivity & Automation,Product Manager,11,Coworker.ai PM tools review 2026,Meeting AI,2024
+Otter.ai,Productivity & Automation,Project Manager,16,Rebel's Guide to PM AI statistics,Meeting AI,2016
+Fireflies.ai,Productivity & Automation,Project Manager,12,Rebel's Guide to PM AI statistics,Meeting AI,2019
+Figma AI,Design & Creative,Product Manager,19,Lenny's Newsletter AI Productivity Survey (Dec 2025),Design AI,2024
+v0 by Vercel,Design & Creative,Product Manager,13,Coworker.ai PM tools review 2026,Prototyping AI,2023
+Midjourney,Design & Creative,Product Manager,8,Views4You AI Usage Report 2025,Image Generation,2022
+Lovable,Design & Creative,Product Manager,9,Lenny's Newsletter AI Productivity Survey (Dec 2025),Prototyping AI,2024
+ChatGPT Advanced Data Analysis,Data Analysis & BI,Data Analyst,29,OpenAI usage reports / SQ Magazine 2025,Code Interpreter,2023
+Julius AI,Data Analysis & BI,Data Analyst,7,AI Analyst Lab job postings research 2026,Data AI,2023
+Hex Magic,Data Analysis & BI,Data Analyst,6,Hex adoption reports 2025,Notebook AI,2023
+Asana AI,Productivity & Automation,Project Manager,15,Asana Work Innovation Lab 2025,PM Tool AI,2023
+Monday AI,Productivity & Automation,Project Manager,11,Monday.com adoption reports 2025,PM Tool AI,2023
+ClickUp Brain,Productivity & Automation,Project Manager,10,ClickUp adoption reports 2025,PM Tool AI,2023
+Jira AI (Atlassian Intelligence),Productivity & Automation,Project Manager,19,Atlassian State of Teams 2025,PM Tool AI,2023
+Jira AI (Atlassian Intelligence),Productivity & Automation,Product Manager,17,Atlassian State of Teams 2025,PM Tool AI,2023
+Gamma,Writing & Content,Product Manager,10,Lenny's Newsletter What's In Your Stack 2025,Presentation AI,2023
+Gamma,Writing & Content,Project Manager,8,Lenny's Newsletter What's In Your Stack 2025,Presentation AI,2023
+Grammarly AI,Writing & Content,Project Manager,21,Views4You AI Usage Report 2025,Writing Assistant,2017
+Grammarly AI,Writing & Content,Product Manager,18,Views4You AI Usage Report 2025,Writing Assistant,2017
+HubSpot AI (Breeze),Productivity & Automation,Product Manager,7,HubSpot adoption reports 2025,CRM AI,2023
+Salesforce Einstein,Data Analysis & BI,Product Manager,6,Salesforce adoption reports 2025,CRM AI,2016
+Zapier AI,Productivity & Automation,Project Manager,9,Zapier AI adoption reports 2025,Automation AI,2023
+Zapier AI,Productivity & Automation,Data Analyst,7,Zapier AI adoption reports 2025,Automation AI,2023
+Gemini in Google Sheets,Data Analysis & BI,Data Analyst,17,Google Workspace adoption 2025,Spreadsheet AI,2024
+Databricks Assistant,Data Analysis & BI,Data Analyst,9,Databricks adoption reports 2025,Data AI,2023
+DeepSeek,Research & Search,Data Analyst,8,Views4You AI Usage Report 2025,LLM Chatbot,2024
