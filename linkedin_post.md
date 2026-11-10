@@ -17,7 +17,7 @@ I pulled together 2025 survey data (Lenny's Newsletter, Stack Overflow, Microsof
 3️⃣ **Claude is the quiet #2 for product people.** Second place among PMs and data professionals — but still far behind among project managers.
 
 📊 Full analysis — dataset (CSV), 7 SQL queries, Power BI dashboard spec, methodology:
-👉 [GitHub repo link]
+👉 https://github.com/oriyakli1-ui/ai-tools-analysis
 
 Explore the full analysis and tell me — which tool is missing from your stack?
 
