@@ -4,29 +4,29 @@
 
 ---
 
-I removed ChatGPT, Claude and Gemini from my dataset. On purpose.
+As someone studying Industrial Engineering and Management, I keep coming back to the same three roles: Product Manager, Data Analyst, and Project Manager. They're the roles most of us in this field end up in — and AI is changing what "good" looks like in all three.
 
-I spent the last week analyzing which AI tools actually matter for 3 of the most in-demand roles — Product Managers, Data Analysts, and Project Managers — using 2025–26 survey data (Lenny's Newsletter, Stack Overflow, Microsoft, PMI).
+So I wanted to actually check: which AI tools are the most useful for each one? Not guesses, not vendor lists — real adoption data.
 
-First finding: the big chatbots topped every single role. Which tells you nothing. "Everyone uses a chatbot" is not a skill anymore — it's the baseline.
+I pulled together 2025–26 industry surveys (Lenny's Newsletter, Stack Overflow, Microsoft, PMI), built a dataset of 25+ tools, and then removed ChatGPT, Claude and Gemini on purpose. They topped every single role, which told me nothing — everyone uses a chatbot by now, that's the baseline, not a skill.
 
-So I cut them, and looked at what actually differentiates these roles. That's where it gets interesting:
+What was left turned out way more interesting:
 
-→ Microsoft Copilot is the real #1 in all three roles (33–42%). AI wins by living inside your workflow, not by being a destination.
+→ Microsoft Copilot is the actual #1 in all three roles. It wins by living inside Office and Teams, not by being a separate app you have to remember to open.
 
-→ The "universal stack" is tiny — just 3 tools cross all roles: MS Copilot, Perplexity, GitHub Copilot. Safe bets on any CV.
+→ Only 3 tools show up across all three roles: MS Copilot, Perplexity, and GitHub Copilot. Everything else is specific to one role.
 
-→ After that, the stacks diverge completely. Analysts: 57% BI AI + 25% coding assistants. Product managers: research, docs and prototyping AI. Project managers: 72% embedded workflow AI (meeting bots, Jira/Asana AI).
+→ Each role's AI "stack" barely overlaps. Data analysts: 57% BI tools. Product managers: productivity + design + research. Project managers: 72% embedded workflow AI (meeting bots, Jira, Asana).
 
-If you're breaking into one of these roles, the full breakdown is in the carousel — including what to learn first for each role, and how I built the analysis (CSV → SQL → Power BI, all open on GitHub).
+Honestly, the project also changed something for me personally — Jira AI (Atlassian Intelligence) showed up as a bigger deal for project managers than I expected, and I'm adding it to my own list of things to learn next. If anyone from Atlassian/Jira is reading this — would love to dig deeper into it 👀
 
-📌 Save this for your next application cycle.
-🔁 Tag a friend who's job hunting in PM, data or product.
+The full project — dataset, SQL queries, Power BI dashboard guide — is open on GitHub, link below.
 
-Full dataset, SQL queries and Power BI guide (free):
-https://github.com/oriyakli1-ui/ai-tools-analysis
+If you're studying or working toward PM, data, or product roles: save this post, it might save you some research later.
 
-#AITools #ProductManagement #DataAnalytics #ProjectManagement #CareerGrowth #JobSearch #SQL #PowerBI
+🔗 github.com/oriyakli1-ui/ai-tools-analysis
+
+#AI #AITools #ProductManagement #DataAnalytics #ProjectManagement #IndustrialEngineering #CareerGrowth #JobSearch #MicrosoftCopilot #JiraAI #SQL #PowerBI #Students #FutureOfWork
 
 ---
 
@@ -40,4 +40,7 @@ https://github.com/oriyakli1-ui/ai-tools-analysis
 7. `07_how_built.png` — portfolio/credibility slide
 8. `08_takeaways_cta.png` — takeaways + save/tag CTA
 
-**Tip:** post the GitHub link in the first comment too — LinkedIn slightly deprioritizes posts with external links; the comment link keeps reach while staying clickable.
+**Notes:**
+- Replace "If anyone from Atlassian/Jira is reading this" with an actual `@Atlassian` or `@Jira` tag only if you have their real LinkedIn page handle — don't guess one.
+- First comment: repost the GitHub link there too (LinkedIn slightly deprioritizes posts with external links in the body).
+- Consider adding a short personal line about your Industrial Engineering studies / what you're looking for, right before the hashtags — makes it easier for recruiters to connect the dots to you specifically.
