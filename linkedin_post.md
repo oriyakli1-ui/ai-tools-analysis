@@ -4,29 +4,25 @@
 
 ---
 
-As someone studying Industrial Engineering and Management, I keep coming back to the same three roles: Product Manager, Data Analyst, and Project Manager. They're the roles most of us in this field end up in — and AI is changing what "good" looks like in all three.
+As someone studying Industrial Engineering and Management, I keep coming back to the same three roles: Product Manager, Data Analyst, and Project Manager. So I wanted to actually check: which AI tools are the most useful for each one?
 
-So I wanted to actually check: which AI tools are the most useful for each one? Not guesses, not vendor lists — real adoption data.
+I pulled 2025–26 industry surveys (Lenny's Newsletter, Stack Overflow, Microsoft, PMI) into a dataset of 25+ tools, then removed ChatGPT, Claude and Gemini on purpose. They topped every role, which told me nothing — everyone uses a chatbot by now, that's the baseline, not a skill.
 
-I pulled together 2025–26 industry surveys (Lenny's Newsletter, Stack Overflow, Microsoft, PMI), built a dataset of 25+ tools, and then removed ChatGPT, Claude and Gemini on purpose. They topped every single role, which told me nothing — everyone uses a chatbot by now, that's the baseline, not a skill.
+What was left got interesting:
 
-What was left turned out way more interesting:
+→ Microsoft Copilot is the real #1 in all three roles. It wins by living inside Office and Teams, not as a separate app.
 
-→ Microsoft Copilot is the actual #1 in all three roles. It wins by living inside Office and Teams, not by being a separate app you have to remember to open.
+→ Only 3 tools cross all three roles: MS Copilot, Perplexity, GitHub Copilot. Everything else is role-specific.
 
-→ Only 3 tools show up across all three roles: MS Copilot, Perplexity, and GitHub Copilot. Everything else is specific to one role.
+→ Each role's AI stack barely overlaps. Analysts: 57% BI tools. PMs: productivity + design + research. Project managers: 72% embedded workflow AI (Jira, Asana, meeting bots).
 
-→ Each role's AI "stack" barely overlaps. Data analysts: 57% BI tools. Product managers: productivity + design + research. Project managers: 72% embedded workflow AI (meeting bots, Jira, Asana).
+Honestly, this project also changed something for me — Jira AI (Atlassian Intelligence) showed up as a bigger deal for project managers than I expected, and it's now on my own list to learn next.
 
-Honestly, the project also changed something for me personally — Jira AI (Atlassian Intelligence) showed up as a bigger deal for project managers than I expected, and I'm adding it to my own list of things to learn next. If anyone from Atlassian/Jira is reading this — would love to dig deeper into it 👀
-
-The full project — dataset, SQL queries, Power BI dashboard guide — is open on GitHub, link below.
-
-If you're studying or working toward PM, data, or product roles: save this post, it might save you some research later.
+Full project — dataset, SQL, Power BI guide — is open on GitHub, link below. If you're studying or working toward PM, data, or product: save this post.
 
 🔗 github.com/oriyakli1-ui/ai-tools-analysis
 
-#AI #AITools #ProductManagement #DataAnalytics #ProjectManagement #IndustrialEngineering #CareerGrowth #JobSearch #MicrosoftCopilot #JiraAI #SQL #PowerBI #Students #FutureOfWork
+#AI #ProductManagement #DataAnalytics #ProjectManagement #CareerGrowth
 
 ---
 
