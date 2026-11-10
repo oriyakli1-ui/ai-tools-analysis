@@ -2,19 +2,19 @@
 
 ---
 
-**I analyzed 25+ AI tools across 3 roles — PMs, Data Analysts, and Project Managers. One number surprised me:**
+**I analyzed 25+ AI tools across 3 roles — PMs, Data Analysts, and Project Managers. Then I deleted ChatGPT, Claude, and Gemini from the data.**
 
-Only 6 tools out of 25+ are actually used by all three roles.
+Why? They topped every single role. "Everyone uses a chatbot" is not an insight. The interesting question is what comes next.
 
 I pulled together 2025 survey data (Lenny's Newsletter, Stack Overflow, Microsoft's Copilot Usage Report, PMI) into a structured dataset, ran SQL analysis, and built a Power BI dashboard.
 
 🔍 3 key insights:
 
-1️⃣ **ChatGPT is the only universal winner.** #1 for every role, 48–58% adoption. The "universal stack" behind it: Microsoft Copilot, Claude, Gemini, Perplexity, GitHub Copilot.
+1️⃣ **Microsoft Copilot is the real workhorse.** With the generic chatbots out, it's #1 for all three roles (33–42% adoption) — AI wins by being embedded in Office/Teams, not by being a destination.
 
-2️⃣ **Each role has a completely different AI profile.** Data analysts put ~half their AI usage into BI & coding tools (Power BI Copilot, GitHub Copilot). Product managers lean on writing & research AI (Claude, Perplexity, Notion AI). Project managers? 52% of their AI usage is embedded productivity AI — Copilot in Office, meeting bots, Jira/Asana AI. They barely adopt standalone tools.
+2️⃣ **The "universal stack" is tiny: just 3 tools.** Microsoft Copilot, Perplexity, GitHub Copilot. Everything else is role-specific — data analysts put 57% of their AI usage into BI tools (Power BI Copilot, Tableau AI) and 25% into coding assistants; project managers put 72% into embedded productivity AI (meeting bots, Jira/Asana AI).
 
-3️⃣ **Claude is the quiet #2 for product people.** Second place among PMs and data professionals — but still far behind among project managers.
+3️⃣ **The GenAI wave already caught up.** Tools launched since 2023 now match pre-GenAI incumbents in average adoption — the gap closed in under three years.
 
 📊 Full analysis — dataset (CSV), 7 SQL queries, Power BI dashboard spec, methodology:
 👉 https://github.com/oriyakli1-ui/ai-tools-analysis

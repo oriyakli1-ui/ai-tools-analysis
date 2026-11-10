@@ -1,16 +1,7 @@
 tool_name,category,job_role,adoption_score,mention_source,ai_type,year_found
-ChatGPT,Writing & Content,Product Manager,58,Lenny's Newsletter AI Productivity Survey (Dec 2025),LLM Chatbot,2022
-ChatGPT,Writing & Content,Data Analyst,52,SQ Magazine / Stack Overflow 2025,LLM Chatbot,2022
-ChatGPT,Writing & Content,Project Manager,48,PMI AI Revolution Survey 2025,LLM Chatbot,2022
-Claude,Writing & Content,Product Manager,35,Lenny's Newsletter What's In Your Stack 2025,LLM Chatbot,2023
-Claude,Data Analysis & BI,Data Analyst,30,Anthropic Economic Index 2025,LLM Chatbot,2023
-Claude,Writing & Content,Project Manager,18,Lenny's Newsletter What's In Your Stack 2025,LLM Chatbot,2023
 Microsoft Copilot,Productivity & Automation,Project Manager,42,Microsoft Copilot Usage Report 2025,LLM Assistant,2023
 Microsoft Copilot,Productivity & Automation,Product Manager,33,Microsoft Copilot Usage Report 2025,LLM Assistant,2023
 Microsoft Copilot,Data Analysis & BI,Data Analyst,38,Microsoft Copilot Usage Report 2025,LLM Assistant,2023
-Google Gemini,Research & Search,Product Manager,24,Lenny's Newsletter What's In Your Stack 2025,LLM Chatbot,2023
-Google Gemini,Research & Search,Data Analyst,26,SQ Magazine AI Tools Usage 2025,LLM Chatbot,2023
-Google Gemini,Research & Search,Project Manager,20,SQ Magazine AI Tools Usage 2025,LLM Chatbot,2023
 Perplexity AI,Research & Search,Product Manager,28,Lenny Rachitsky PM chatbot poll 2024-2025,AI Search,2022
 Perplexity AI,Research & Search,Data Analyst,22,Views4You AI Usage Report 2025,AI Search,2022
 Perplexity AI,Research & Search,Project Manager,12,Views4You AI Usage Report 2025,AI Search,2022
