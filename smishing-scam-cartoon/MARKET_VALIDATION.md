@@ -64,7 +64,7 @@ Publish 10 Shorts and 3 lessons, then judge:
 - Subscribers per 1,000 views of at least 5.
 - At least 3 real comments or messages like "I sent this to my mum".
 - In the prompt audit, at least one of your videos cited for some query after 8 weeks.
-If none of these happen, change the angle (for example a series for parents, or a Hebrew channel, since the earlier guess was competition there is lower but this is unverified) before investing more.
+If none of these happen, change the angle (for example a series made for parents to watch with their children) before investing more.
 
 ## 8. What to check by hand (I could not)
 1. YouTube search for the 10 phrases in `audience.md`: note the top 10 results, channel size, upload dates and views.
