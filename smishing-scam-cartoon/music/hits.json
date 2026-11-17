@@ -1,0 +1,68 @@
+{
+ "bpm": 100,
+ "beat": 0.6,
+ "bar": 2.4,
+ "duration": 300.0,
+ "hits": [
+  {
+   "t": 24.0,
+   "label": "t1 signature chord"
+  },
+  {
+   "t": 48.0,
+   "label": "t2 signature chord"
+  },
+  {
+   "t": 72.0,
+   "label": "t3 signature chord"
+  },
+  {
+   "t": 96.0,
+   "label": "t4 signature chord"
+  },
+  {
+   "t": 120.0,
+   "label": "t5 signature chord"
+  },
+  {
+   "t": 148.8,
+   "label": "r1 signature chord"
+  },
+  {
+   "t": 170.4,
+   "label": "r2 signature chord"
+  },
+  {
+   "t": 192.0,
+   "label": "r3 signature chord"
+  },
+  {
+   "t": 213.6,
+   "label": "r4 signature chord"
+  },
+  {
+   "t": 235.2,
+   "label": "r5 signature chord"
+  },
+  {
+   "t": 285.414,
+   "label": "outro chord Fmaj9"
+  },
+  {
+   "t": 286.249,
+   "label": "outro chord Bbmaj9"
+  },
+  {
+   "t": 287.084,
+   "label": "outro chord Gm9"
+  },
+  {
+   "t": 287.919,
+   "label": "outro chord Am7"
+  },
+  {
+   "t": 288.754,
+   "label": "outro chord Cmaj9"
+  }
+ ]
+}

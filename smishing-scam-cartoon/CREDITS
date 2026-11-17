@@ -1,0 +1,9 @@
+CREDITS: The Fake Bank Text
+
+Picture: drawn in code (HTML canvas) with the Lemo-Opuscar "Mid-century Cartoon" engine (library open source, github.com/lemomo-ai/lemo-opuscar). Characters, bank ("Maple Trust"), phone numbers and web addresses are fictional; ".example" addresses are reserved for examples.
+Voice: Kokoro TTS (kokoro-onnx), voice bm_george, Apache-2.0 licence, running offline.
+Fonts (SIL Open Font License 1.1, files and licences in fonts/): Oleo Script, Alfa Slab One, Jost.
+Foley: synthesised in code (core/audio/sfx.py of the library).
+Music: "The Fake Bank Text" original score, generated in code
+Drums: "MuldjordKit" by Lars Muldjord (drumgizmo.org), FreePats version, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Samples (CC0): Karoryfer Samples / sfzinstruments, VS Chamber Orchestra: Community Edition (Versilian Studios), Versilian Community Sample Library (Versilian Studios)
