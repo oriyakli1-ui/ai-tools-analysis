@@ -5,3 +5,4 @@ music/stems/
 voices/*.wav
 events.json
 lines.json
+*.mp4
